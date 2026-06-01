@@ -3,3 +3,10 @@
 #include <string>
 using namespace std;
 
+int main()
+{
+    
+    //deklarasi variabel baris untuk menyiapkan data string
+    string baris;
+
+    
